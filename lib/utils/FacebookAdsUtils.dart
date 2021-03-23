@@ -1,0 +1,11 @@
+var FacebookAppId = '236180364658625';
+
+var FacebookBannerAdsId = '236180364658625_236183734658288';
+
+var FacebookInterstitialAdsId = '236180364658625_236183481324980';
+
+var FacebookRewardedAdsId = '236180364658625_236183091325019';
+
+var FacebookNativeBannerAdId = '236180364658625_236182687991726';
+
+var FacebookNativeAdId = '236180364658625_236181534658508';
